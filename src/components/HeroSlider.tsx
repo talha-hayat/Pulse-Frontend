@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Link } from "react-router-dom";
-import Slide2 from "@/assets/vecteezy_plastic-bottle-on-a-sandy-beach-at-sunset-reflecting-ocean_52874752.mp4";
+import Slide2 from "@/assets/About.png";
 import heroRestaurant from "@/assets/hero-restaurant.jpg";
 import slide1 from "@/assets/Slide 1.mp4";
 
@@ -171,3 +171,4 @@ const HeroSlider = () => {
 };
 
 export default HeroSlider;
+
